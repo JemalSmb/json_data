@@ -5,63 +5,63 @@
         "book_author": "Harper Lee",
         "genre": "Southern Gothic, Bildungsroman",
         "synopsis": "Set in the American South during the 1930s, this novel follows young Scout Finch as her father, lawyer Atticus Finch, defends a Black man falsely accused of rape.",
-        "image_url": "https://example.com/books/mockingbird.png"
+        "image_url": "https://i.imgur.com/vD7wPFa.png"
       },
       {
         "book_name": "1984",
         "book_author": "George Orwell",
         "genre": "Dystopian, Political Fiction",
         "synopsis": "In a totalitarian future society, Winston Smith works for the government rewriting history but secretly dreams of rebellion.",
-        "image_url": "https://example.com/books/1984.png"
+        "image_url": "https://i.imgur.com/gc3nYAJ.jpeg"
       },
       {
         "book_name": "The Great Gatsby",
         "book_author": "F. Scott Fitzgerald",
         "genre": "Tragedy, Jazz Age",
         "synopsis": "A portrait of the Jazz Age through the story of the fabulously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan.",
-        "image_url": "https://example.com/books/gatsby.png"
+        "image_url": "https://i.imgur.com/ccllUbU.jpeg"
       },
       {
         "book_name": "Pride and Prejudice",
         "book_author": "Jane Austen",
         "genre": "Romance, Satire",
         "synopsis": "The spirited Elizabeth Bennet deals with issues of manners, morality, and marriage in the society of the landed gentry.",
-        "image_url": "https://example.com/books/pride.png"
+        "image_url": "https://i.imgur.com/Lg1id9a.jpeg"
       },
       {
         "book_name": "The Hobbit",
         "book_author": "J.R.R. Tolkien",
         "genre": "Fantasy, Adventure",
         "synopsis": "Bilbo Baggins, a respectable hobbit, is swept into an epic quest to reclaim a dwarf kingdom from the dragon Smaug.",
-        "image_url": "https://example.com/books/hobbit.png"
+        "image_url": "https://i.imgur.com/jNK0pW2.jpeg"
       },
        {
       "book_name": "The Catcher in the Rye",
       "book_author": "J.D. Salinger",
       "genre": "Coming-of-age",
       "synopsis": "Teenage Holden Caulfield, expelled from prep school, wanders New York City struggling with his alienation from the adult world.",
-      "image_url": "https://example.com/books/catcher.png"
+      "image_url": "https://i.imgur.com/O6lCd8C.png"
     },
     {
       "book_name": "Dune",
       "book_author": "Frank Herbert",
       "genre": "Science Fiction",
       "synopsis": "On the desert planet Arrakis, young Paul Atreides becomes embroiled in a struggle over the galaxy's most valuable resource: the spice melange.",
-      "image_url": "https://example.com/books/dune.png"
+      "image_url": "https://i.imgur.com/XErHy75.jpeg"
     },
     {
       "book_name": "Frankenstein",
       "book_author": "Mary Shelley",
       "genre": "Gothic, Horror",
       "synopsis": "Victor Frankenstein creates a sentient creature in an unorthodox scientific experiment, with tragic consequences.",
-      "image_url": "https://example.com/books/frankenstein.png"
+      "image_url": "https://i.imgur.com/j9tmHm9.jpeg"
     },
     {
       "book_name": "The Road",
       "book_author": "Cormac McCarthy",
       "genre": "Post-apocalyptic",
       "synopsis": "A father and his young son journey across a bleak, ash-covered America in a post-apocalyptic world.",
-      "image_url": "https://example.com/books/road.png"
+      "image_url": "https://i.imgur.com/9FlG57C.jpeg"
     },
     {
       "book_name": "The Goldfinch",
