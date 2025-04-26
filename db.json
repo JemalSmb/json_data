@@ -2,7 +2,6 @@
   {
     "book_name": "To Kill a Mockingbird",
     "book_author": "Harper Lee",
-    "published_date": "1960-07-11",
     "genre": "Southern Gothic, Bildungsroman",
     "synopsis": "Set in the American South during the 1930s, this novel follows young Scout Finch as her father, lawyer Atticus Finch, defends a Black man falsely accused of rape.",
     "image_url": "https://example.com/books/mockingbird.png"
@@ -10,7 +9,6 @@
   {
     "book_name": "1984",
     "book_author": "George Orwell",
-    "published_date": "1949-06-08",
     "genre": "Dystopian, Political Fiction",
     "synopsis": "In a totalitarian future society, Winston Smith works for the government rewriting history but secretly dreams of rebellion.",
     "image_url": "https://example.com/books/1984.png"
@@ -18,7 +16,6 @@
   {
     "book_name": "The Great Gatsby",
     "book_author": "F. Scott Fitzgerald",
-    "published_date": "1925-04-10",
     "genre": "Tragedy, Jazz Age",
     "synopsis": "A portrait of the Jazz Age through the story of the fabulously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan.",
     "image_url": "https://example.com/books/gatsby.png"
@@ -26,7 +23,6 @@
   {
     "book_name": "Pride and Prejudice",
     "book_author": "Jane Austen",
-    "published_date": "1813-01-28",
     "genre": "Romance, Satire",
     "synopsis": "The spirited Elizabeth Bennet deals with issues of manners, morality, and marriage in the society of the landed gentry.",
     "image_url": "https://example.com/books/pride.png"
@@ -34,7 +30,6 @@
   {
     "book_name": "The Hobbit",
     "book_author": "J.R.R. Tolkien",
-    "published_date": "1937-09-21",
     "genre": "Fantasy, Adventure",
     "synopsis": "Bilbo Baggins, a respectable hobbit, is swept into an epic quest to reclaim a dwarf kingdom from the dragon Smaug.",
     "image_url": "https://example.com/books/hobbit.png"
@@ -42,7 +37,6 @@
   {
     "book_name": "The Catcher in the Rye",
     "book_author": "J.D. Salinger",
-    "published_date": "1951-07-16",
     "genre": "Coming-of-age",
     "synopsis": "Teenage Holden Caulfield, expelled from prep school, wanders New York City struggling with his alienation from the adult world.",
     "image_url": "https://example.com/books/catcher.png"
@@ -50,7 +44,6 @@
   {
     "book_name": "Dune",
     "book_author": "Frank Herbert",
-    "published_date": "1965-08-01",
     "genre": "Science Fiction",
     "synopsis": "On the desert planet Arrakis, young Paul Atreides becomes embroiled in a struggle over the galaxy's most valuable resource: the spice melange.",
     "image_url": "https://example.com/books/dune.png"
@@ -58,7 +51,6 @@
   {
     "book_name": "Frankenstein",
     "book_author": "Mary Shelley",
-    "published_date": "1818-01-01",
     "genre": "Gothic, Horror",
     "synopsis": "Victor Frankenstein creates a sentient creature in an unorthodox scientific experiment, with tragic consequences.",
     "image_url": "https://example.com/books/frankenstein.png"
@@ -66,7 +58,6 @@
   {
     "book_name": "The Road",
     "book_author": "Cormac McCarthy",
-    "published_date": "2006-09-26",
     "genre": "Post-apocalyptic",
     "synopsis": "A father and his young son journey across a bleak, ash-covered America in a post-apocalyptic world.",
     "image_url": "https://example.com/books/road.png"
@@ -74,7 +65,6 @@
   {
     "book_name": "The Goldfinch",
     "book_author": "Donna Tartt",
-    "published_date": "2013-10-22",
     "genre": "Literary Fiction",
     "synopsis": "Theo Decker survives an accident that kills his mother and becomes obsessed with a small painting that reminds him of her.",
     "image_url": "https://example.com/books/goldfinch.png"
@@ -82,7 +72,6 @@
   {
     "book_name": "The Silent Patient",
     "book_author": "Alex Michaelides",
-    "published_date": "2019-02-05",
     "genre": "Psychological Thriller",
     "synopsis": "A criminal psychotherapist becomes obsessed with uncovering the truth behind a woman's act of violence against her husband.",
     "image_url": "https://example.com/books/silentpatient.png"
@@ -90,7 +79,6 @@
   {
     "book_name": "Normal People",
     "book_author": "Sally Rooney",
-    "published_date": "2018-08-28",
     "genre": "Literary Fiction",
     "synopsis": "The complex relationship between Marianne and Connell follows them from secondary school through their university years in Dublin.",
     "image_url": "https://example.com/books/normalpeople.png"
@@ -98,7 +86,6 @@
   {
     "book_name": "The Midnight Library",
     "book_author": "Matt Haig",
-    "published_date": "2020-08-13",
     "genre": "Fantasy, Fiction",
     "synopsis": "Between life and death there is a library where each book provides a chance to try another life you could have lived.",
     "image_url": "https://example.com/books/midnightlibrary.png"
@@ -106,7 +93,6 @@
   {
     "book_name": "Moby-Dick",
     "book_author": "Herman Melville",
-    "published_date": "1851-10-18",
     "genre": "Adventure, Epic",
     "synopsis": "The voyage of the whaling ship Pequod, commanded by Captain Ahab, who seeks vengeance on the white whale Moby Dick.",
     "image_url": "https://example.com/books/mobydick.png"
@@ -114,7 +100,6 @@
   {
     "book_name": "Crime and Punishment",
     "book_author": "Fyodor Dostoevsky",
-    "published_date": "1866-01-01",
     "genre": "Psychological Fiction",
     "synopsis": "Rodion Raskolnikov, an impoverished ex-student, plans and executes a murder to test his theory about extraordinary men being above the law.",
     "image_url": "https://example.com/books/crimepunishment.png"
@@ -122,7 +107,6 @@
   {
     "book_name": "One Hundred Years of Solitude",
     "book_author": "Gabriel García Márquez",
-    "published_date": "1967-05-30",
     "genre": "Magical Realism",
     "synopsis": "The multi-generational story of the Buendía family and the founding and eventual doom of their town Macondo.",
     "image_url": "https://example.com/books/solitude.png"
@@ -130,7 +114,6 @@
   {
     "book_name": "Brave New World",
     "book_author": "Aldous Huxley",
-    "published_date": "1932-01-01",
     "genre": "Dystopian, Science Fiction",
     "synopsis": "A futuristic World State where happiness is maintained through genetic engineering, drugs, and strict social control.",
     "image_url": "https://example.com/books/bravenewworld.png"
@@ -138,7 +121,6 @@
   {
     "book_name": "The Bell Jar",
     "book_author": "Sylvia Plath",
-    "published_date": "1963-01-14",
     "genre": "Autobiographical Fiction",
     "synopsis": "Esther Greenwood's descent into mental illness and her struggle with societal expectations in 1950s America.",
     "image_url": "https://example.com/books/belljar.png"
@@ -146,7 +128,6 @@
   {
     "book_name": "The Handmaid's Tale",
     "book_author": "Margaret Atwood",
-    "published_date": "1985-01-01",
     "genre": "Dystopian, Speculative Fiction",
     "synopsis": "In the Republic of Gilead, Offred navigates life as a Handmaid whose sole purpose is to bear children for the ruling class.",
     "image_url": "https://example.com/books/handmaid.png"
