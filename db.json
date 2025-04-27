@@ -1,137 +1,74 @@
 {
   "Books": [
-      {
-        "book_name": "To Kill a Mockingbird",
-        "book_author": "Harper Lee",
-        "genre": "Southern Gothic, Bildungsroman",
-        "synopsis": "Set in the American South during the 1930s, this novel follows young Scout Finch as her father, lawyer Atticus Finch, defends a Black man falsely accused of rape.",
-        "image_url": "https://i.imgur.com/vD7wPFa.png"
-      },
-      {
-        "book_name": "1984",
-        "book_author": "George Orwell",
-        "genre": "Dystopian, Political Fiction",
-        "synopsis": "In a totalitarian future society, Winston Smith works for the government rewriting history but secretly dreams of rebellion.",
-        "image_url": "https://i.imgur.com/gc3nYAJ.jpeg"
-      },
-      {
-        "book_name": "The Great Gatsby",
-        "book_author": "F. Scott Fitzgerald",
-        "genre": "Tragedy, Jazz Age",
-        "synopsis": "A portrait of the Jazz Age through the story of the fabulously wealthy Jay Gatsby and his love for the beautiful Daisy Buchanan.",
-        "image_url": "https://i.imgur.com/ccllUbU.jpeg"
-      },
-      {
-        "book_name": "Pride and Prejudice",
-        "book_author": "Jane Austen",
-        "genre": "Romance, Satire",
-        "synopsis": "The spirited Elizabeth Bennet deals with issues of manners, morality, and marriage in the society of the landed gentry.",
-        "image_url": "https://i.imgur.com/Lg1id9a.jpeg"
-      },
-      {
-        "book_name": "The Hobbit",
-        "book_author": "J.R.R. Tolkien",
-        "genre": "Fantasy, Adventure",
-        "synopsis": "Bilbo Baggins, a respectable hobbit, is swept into an epic quest to reclaim a dwarf kingdom from the dragon Smaug.",
-        "image_url": "https://i.imgur.com/jNK0pW2.jpeg"
-      },
-       {
-      "book_name": "The Catcher in the Rye",
-      "book_author": "J.D. Salinger",
-      "genre": "Coming-of-age",
-      "synopsis": "Teenage Holden Caulfield, expelled from prep school, wanders New York City struggling with his alienation from the adult world.",
-      "image_url": "https://i.imgur.com/O6lCd8C.png"
+    {
+      "book_name": "Pride and Prejudice",
+      "book_author": "Jane Austen",
+      "genre": "Romance",
+      "synopsis": "The Bennet sisters navigate society and love in 19th-century England, with Elizabeth Bennet's witty encounters with the proud Mr. Darcy at the heart of the story.",
+      "image_url": "https://i.imgur.com/Lg1id9a.jpeg"
     },
     {
-      "book_name": "Dune",
-      "book_author": "Frank Herbert",
-      "genre": "Science Fiction",
-      "synopsis": "On the desert planet Arrakis, young Paul Atreides becomes embroiled in a struggle over the galaxy's most valuable resource: the spice melange.",
-      "image_url": "https://i.imgur.com/XErHy75.jpeg"
+      "book_name": "The Notebook",
+      "book_author": "Nicholas Sparks",
+      "genre": "Romance",
+      "synopsis": "An elderly man reads a romantic story to a woman in a nursing home, revealing a passionate love affair from their youth.",
+      "image_url": "https://i.imgur.com/6QHlGcX.jpeg"
     },
     {
-      "book_name": "Frankenstein",
-      "book_author": "Mary Shelley",
-      "genre": "Gothic, Horror",
-      "synopsis": "Victor Frankenstein creates a sentient creature in an unorthodox scientific experiment, with tragic consequences.",
-      "image_url": "https://i.imgur.com/j9tmHm9.jpeg"
+      "book_name": "The Lord of the Rings",
+      "book_author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "synopsis": "In the magical world of Middle-earth, a hobbit named Frodo Baggins embarks on a perilous quest to destroy the One Ring and defeat the Dark Lord Sauron.",
+      "image_url": "https://i.imgur.com/CSLzZkQ.jpeg"
     },
     {
-      "book_name": "The Road",
-      "book_author": "Cormac McCarthy",
-      "genre": "Post-apocalyptic",
-      "synopsis": "A father and his young son journey across a bleak, ash-covered America in a post-apocalyptic world.",
-      "image_url": "https://i.imgur.com/9FlG57C.jpeg"
+      "book_name": "Harry Potter and the Sorcerer's Stone",
+      "book_author": "J.K. Rowling",
+      "genre": "Fantasy",
+      "synopsis": "An orphaned boy, Harry Potter, discovers on his eleventh birthday that he is a wizard and is invited to study at Hogwarts School of Witchcraft and Wizardry.",
+      "image_url": "https://i.imgur.com/6y18Rga.jpeg"
     },
     {
-      "book_name": "The Goldfinch",
-      "book_author": "Donna Tartt",
+      "book_name": "The Da Vinci Code",
+      "book_author": "Dan Brown",
+      "genre": "Mystery",
+      "synopsis": "A Harvard symbologist and a cryptologist unravel a historical conspiracy connected to Leonardo da Vinci's art and the secrets of the Holy Grail.",
+      "image_url": "https://i.imgur.com/6m4p10o.jpeg"
+    },
+    {
+      "book_name": "Gone Girl",
+      "book_author": "Gillian Flynn",
+      "genre": "Mystery",
+      "synopsis": "On their fifth wedding anniversary, Nick Dunne's wife Amy disappears, and he becomes the prime suspect in a gripping tale of secrets and deception.",
+      "image_url": "https://i.imgur.com/uumHEjY.jpeg"
+    },
+    {
+      "book_name": "Sapiens: A Brief History of Humankind",
+      "book_author": "Yuval Noah Harari",
+      "genre": "History",
+      "synopsis": "This book explores the history of Homo sapiens from the Stone Age to the present day, examining the key events and forces that have shaped human society.",
+      "image_url": "https://i.imgur.com/AUQPEcx.jpeg"
+    },
+    {
+      "book_name": "The Diary of a Young Girl",
+      "book_author": "Anne Frank",
+      "genre": "History",
+      "synopsis": "The poignant diary of a young Jewish girl hiding with her family in Amsterdam during the Holocaust.",
+      "image_url": "https://i.imgur.com/HfIl9eI.jpeg"
+    },
+    {
+      "book_name": "To Kill a Mockingbird",
+      "book_author": "Harper Lee",
       "genre": "Literary Fiction",
-      "synopsis": "Theo Decker survives an accident that kills his mother and becomes obsessed with a small painting that reminds him of her.",
-      "image_url": "https://i.imgur.com/CQZVfCf.png"
+      "synopsis": "Set in the American South during the 1930s, this novel follows young Scout Finch as her father, lawyer Atticus Finch, defends a Black man falsely accused of rape.",
+      "image_url": "https://i.imgur.com/vD7wPFa.png"
     },
     {
-      "book_name": "The Silent Patient",
-      "book_author": "Alex Michaelides",
-      "genre": "Psychological Thriller",
-      "synopsis": "A criminal psychotherapist becomes obsessed with uncovering the truth behind a woman's act of violence against her husband.",
-      "image_url": "https://i.imgur.com/fZoP25b.png"
-    },
-    {
-      "book_name": "Normal People",
-      "book_author": "Sally Rooney",
-      "genre": "Literary Fiction",
-      "synopsis": "The complex relationship between Marianne and Connell follows them from secondary school through their university years in Dublin.",
-      "image_url": "https://i.imgur.com/H3zgWp1.jpeg"
-    },
-    {
-      "book_name": "The Midnight Library",
-      "book_author": "Matt Haig",
-      "genre": "Fantasy, Fiction",
-      "synopsis": "Between life and death there is a library where each book provides a chance to try another life you could have lived.",
-      "image_url": "https://i.imgur.com/1h4EVi2.jpeg"
-    },
-    {
-      "book_name": "Moby-Dick",
-      "book_author": "Herman Melville",
-      "genre": "Adventure, Epic",
-      "synopsis": "The voyage of the whaling ship Pequod, commanded by Captain Ahab, who seeks vengeance on the white whale Moby Dick.",
-      "image_url": "https://i.imgur.com/d7LZgcM.jpeg"
-    },
-    {
-      "book_name": "Crime and Punishment",
-      "book_author": "Fyodor Dostoevsky",
-      "genre": "Psychological Fiction",
-      "synopsis": "Rodion Raskolnikov, an impoverished ex-student, plans and executes a murder to test his theory about extraordinary men being above the law.",
-      "image_url": "https://i.imgur.com/1zpcmFt.jpeg"
-    },
-    {
-      "book_name": "One Hundred Years of Solitude",
-      "book_author": "Gabriel García Márquez",
-      "genre": "Magical Realism",
-      "synopsis": "The multi-generational story of the Buendía family and the founding and eventual doom of their town Macondo.",
-      "image_url": "https://i.imgur.com/VpEpuvX.jpeg"
-    },
-    {
-      "book_name": "Brave New World",
-      "book_author": "Aldous Huxley",
-      "genre": "Dystopian, Science Fiction",
-      "synopsis": "A futuristic World State where happiness is maintained through genetic engineering, drugs, and strict social control.",
-      "image_url": "https://i.imgur.com/VgVUby4.jpeg"
-    },
-    {
-      "book_name": "The Bell Jar",
-      "book_author": "Sylvia Plath",
-      "genre": "Autobiographical Fiction",
-      "synopsis": "Esther Greenwood's descent into mental illness and her struggle with societal expectations in 1950s America.",
-      "image_url": "https://i.imgur.com/qc3Tu4n.jpeg"
-    },
-    {
-      "book_name": "The Handmaid's Tale",
-      "book_author": "Margaret Atwood",
-      "genre": "Dystopian, Speculative Fiction",
-      "synopsis": "In the Republic of Gilead, Offred navigates life as a Handmaid whose sole purpose is to bear children for the ruling class.",
-      "image_url": "https://i.imgur.com/r3t2QqB.jpeg"
+      "book_name": "1984",
+      "book_author": "George Orwell",
+      "genre": "Dystopian Fiction",
+      "synopsis": "In a totalitarian future society, Winston Smith works for the government rewriting history but secretly dreams of rebellion.",
+      "image_url": "https://i.imgur.com/gc3nYAJ.jpeg"
     }
   ]
 }
